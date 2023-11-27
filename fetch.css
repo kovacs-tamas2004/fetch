@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gomb{
+    background-color: rgb(176, 97, 97);
+    height: 60px;
+    width: 100px;
+    border: solid 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
