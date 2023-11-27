@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#gomb{
+    background-color: rgb(176, 97, 97);
+    height: 60px;
+    width: 100px;
+    border: solid 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#author{
+    font-size: 22px;
+}
+
+#content{
+    font-size: 18px;
+}
